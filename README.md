@@ -25,3 +25,10 @@ Código (entre crases)
 
 Link:
 [site do das músicas](https://www.vagalume.com.br/enrique-iglesias/bailando-feat-descemer-bueno-gente-de-zona-traducao.html)
+
+Tabela
+Número|nome|Nota
+-|-|-
+1|Tiago|5.0
+2|Gilson|8.5
+3|Caua Gabriel|1.2
